@@ -1,9 +1,9 @@
 import React from 'react'
-import Banner from './Banner';
+import Banner from '../Banner';
 import './HomeScreen.css'
-import Nav from './Nav';
-import Row from './Row';
-import requests from './Requests';
+import Nav from '../Nav';
+import Row from '../Row';
+import requests from '../Requests'; // as we are in the different folder, we need to import it as .. so that we can navigate to different folder
 
 function HomeScreen() {
   return(
