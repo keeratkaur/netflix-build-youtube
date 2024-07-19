@@ -40,6 +40,25 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+# Snapshots
+The following image shows the Get Started Page, where the already registered user can fill in the information and get started with the app's fun. 
+![Screenshot (57)](https://github.com/user-attachments/assets/38e82cb0-2431-4c6d-bfd9-ca4a13e5e9e6)
+
+![Screenshot (58)](https://github.com/user-attachments/assets/e63aee70-b4ee-4142-8640-eaa289dcc57b)
+
+The Homepage: 
+![Screenshot (59)](https://github.com/user-attachments/assets/bc0dc353-1e49-4dc5-95ed-dbfc508fef08)
+
+Buying the Plan Page:
+![Screenshot (60)](https://github.com/user-attachments/assets/e3a05a0b-0f26-4802-9e64-2d1237d4664c)
+
+I used Stripe for the payment page: 
+![image](https://github.com/user-attachments/assets/bfb407d5-8cc8-4101-8fed-e43de8e7a02d)
+
+
+
+
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
